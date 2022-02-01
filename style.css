@@ -2,6 +2,8 @@
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
 
 div {
@@ -10,4 +12,7 @@ div {
 	justify-content: center;
 	align-items: center;
 	font-size: 100px;
+}
+div i {
+	color: red;
 }
